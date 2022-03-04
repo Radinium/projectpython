@@ -1,2 +1,3 @@
-# project_1
-this my first testing project that i have succefuly added to my github thankyou patika and kodliyoruz 2/14/2022
+# Radinium
+this my first testing project that i have succefuly added to my github thank you patika and kodliyoruz 2/14/2022
+[![trophy](https://github-profile-trophy.vercel.app/Radinium=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
