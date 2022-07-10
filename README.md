@@ -1,2 +1,2 @@
-#Personal Projects
-these are the projects that i liked to do for learning different languages or just for fun hope you enjoy 
+a web scraping project that i have done out of boredom to show the announcement page of my mechanical engineering faculty in yildiz technical university
+this just for educational purposes
