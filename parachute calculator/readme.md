@@ -1,1 +1,0 @@
-this is calculator that calculates one parachute gore and is designed for yildiz rocket team @yildiz technical university one of the best teams in turkey
